@@ -1,0 +1,30 @@
+{
+    "_id": 38144233,
+    "game_name": "CS2",
+    "match_name": "Sinners Esports - VS - Sashi Esport",
+    "tournament_short_name": "CCT European Series",
+    "start_time": "2025-03-09 21:00:00",
+    "status": "prematch",
+    "round": "bo3",
+    "teams": [
+        "Sinners Esports",
+        "Sashi Esport"
+    ],
+    "odds": [
+        {
+            "Date time": "09/03/2025 19:14:22",
+            "Winner": {
+                "Sashi Esport": "2.14",
+                "Sinners Esports": "1.68"
+            },
+            "Map 1": {
+                "Sashi Esport": "1.91",
+                "Sinners Esports": "1.85"
+            },
+            "Map 2": {
+                "Sinners Esports": "1.85",
+                "Sashi Esport": "1.91"
+            }
+        }
+    ]
+}
