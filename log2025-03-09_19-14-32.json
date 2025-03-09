@@ -1,0 +1,30 @@
+{
+    "_id": 38143087,
+    "game_name": "CS2",
+    "match_name": "NEVERMORE - VS - Spray Jutsu",
+    "tournament_short_name": "ESEA Advanced Europe",
+    "start_time": "2025-03-09 21:00:00",
+    "status": "prematch",
+    "round": "bo3",
+    "teams": [
+        "NEVERMORE",
+        "Spray Jutsu"
+    ],
+    "odds": [
+        {
+            "Date time": "09/03/2025 19:14:37",
+            "Winner": {
+                "Spray Jutsu": "2.39",
+                "NEVERMORE": "1.55"
+            },
+            "Map 1": {
+                "NEVERMORE": "1.65",
+                "Spray Jutsu": "2.19"
+            },
+            "Map 2": {
+                "Spray Jutsu": "2.19",
+                "NEVERMORE": "1.65"
+            }
+        }
+    ]
+}

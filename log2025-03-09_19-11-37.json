@@ -1,0 +1,30 @@
+{
+    "_id": 38142822,
+    "game_name": "CS2",
+    "match_name": "FB Team - VS - RUSH B",
+    "tournament_short_name": "A1 Gaming League",
+    "start_time": "2025-03-09 19:30:00",
+    "status": "prematch",
+    "round": "bo3",
+    "teams": [
+        "FB Team",
+        "RUSH B"
+    ],
+    "odds": [
+        {
+            "Date time": "09/03/2025 19:11:42",
+            "Winner": {
+                "FB Team": "1.65",
+                "RUSH B": "2.19"
+            },
+            "Map 1": {
+                "FB Team": "1.75",
+                "RUSH B": "2.03"
+            },
+            "Map 2": {
+                "FB Team": "1.75",
+                "RUSH B": "2.03"
+            }
+        }
+    ]
+}

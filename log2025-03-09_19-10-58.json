@@ -1,0 +1,30 @@
+{
+    "_id": 38144317,
+    "game_name": "CS2",
+    "match_name": "ODDIK - VS - ShindeN",
+    "tournament_short_name": "PGL Bucharest South American Qualifier",
+    "start_time": "2025-03-09 21:00:00",
+    "status": "prematch",
+    "round": "bo3",
+    "teams": [
+        "ODDIK",
+        "ShindeN"
+    ],
+    "odds": [
+        {
+            "Date time": "09/03/2025 19:11:03",
+            "Winner": {
+                "ShindeN": "4.35",
+                "ODDIK": "1.20"
+            },
+            "Map 1": {
+                "ShindeN": "3.10",
+                "ODDIK": "1.35"
+            },
+            "Map 2": {
+                "ODDIK": "1.35",
+                "ShindeN": "3.10"
+            }
+        }
+    ]
+}

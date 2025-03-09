@@ -53,7 +53,7 @@ def save_match_ids(match_ids):
         for match_id in match_ids:
             file.write(f"{match_id}\n")
 
-    print(f"Сохранены новые match_id: {match_ids}")
+    print(f"Сохранены новый match_id: {match_ids}")
 
 
 
