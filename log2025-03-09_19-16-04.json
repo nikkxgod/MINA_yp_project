@@ -1,0 +1,30 @@
+{
+    "_id": 38144320,
+    "game_name": "CS2",
+    "match_name": "W7M - VS - UNO MILLE",
+    "tournament_short_name": "PGL Bucharest South American Qualifier",
+    "start_time": "2025-03-09 21:00:00",
+    "status": "prematch",
+    "round": "bo3",
+    "teams": [
+        "W7M",
+        "UNO MILLE"
+    ],
+    "odds": [
+        {
+            "Date time": "09/03/2025 19:16:08",
+            "Winner": {
+                "UNO MILLE": "1.65",
+                "W7M": "2.19"
+            },
+            "Map 1": {
+                "W7M": "2.03",
+                "UNO MILLE": "1.75"
+            },
+            "Map 2": {
+                "W7M": "2.03",
+                "UNO MILLE": "1.75"
+            }
+        }
+    ]
+}
